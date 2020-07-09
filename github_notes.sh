@@ -85,7 +85,19 @@ git status
 git diff #to see changes
 
 
+git init 
+
+# add remote
 git remote add origin https://github.com/rborgesm/Github_notes.git
+
+#git remote -v
+origin	https://github.com/rborgesm/Github_notes.git (fetch)
+origin	https://github.com/rborgesm/Github_notes.git (push)
+
+git push -u origin master
+
+
+
 git push -u origin master
 
 # what is he doing in code?
