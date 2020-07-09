@@ -68,4 +68,28 @@ git config --global credential.helper osxkeychain
 
 # hookup new dir to folder
 
+git init
+
+
+# add to repository
+# add all files
+git add .
+
+ git commit -m "file from class initial commit"
+
+
+git status
+
+# change
+
+git diff #to see changes
+
+
+git remote add origin https://github.com/rborgesm/Github_notes.git
+git push -u origin master
+
+# what is he doing in code?
+
+
+
 
